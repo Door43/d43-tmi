@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tmi:home|Door43 (tmi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tmi|d43-tmi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tmi/archive/master.zip|d43-tmi.zip]]
+
+**Recent Changes**
+{{changes>ns = tmi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tmi|Ethnologue data]]
+
